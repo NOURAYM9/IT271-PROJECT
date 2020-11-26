@@ -41,25 +41,6 @@
                 </div>
                 <h3>عبايه سوداء مع وردي</h3>
             </div>
-            <div class="singleAbaya">
-                <div class="abayaImg">
-                <img src="./images/abaya1.webp" alt="">
-                </div>
-                <h3>عبايه سوداء</h3>
-            </div>
-            <div class="singleAbaya">
-                <div class="abayaImg">
-                <img src="./images/abaya2.jpg" alt="">
-                </div>
-                <h3>عبايه سوداء مع بني</h3>
-            </div>
-            <div class="singleAbaya">
-                <div class="abayaImg">
-                <img src="./images/ANYFR-4-scaled.jpg" alt="">
-                </div>
-                <h3>عبايه سوداء مع وردي</h3>
-            </div>
-        </div>
     </section>
 
     <section class="products">
