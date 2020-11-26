@@ -13,8 +13,8 @@
                 <div class="log">
                     <a href="index.php"><img src="./images/1.png" style="margin-top: -16px;height: 95px;"></a>
                 </div>
-                <div class="aaa">
-                    <a href="products.php" style="text-decoration: none;font-size: 65px;color: white;">Abaya & More</a>
+                <div>
+                    <a href="products.php" style="text-decoration: none;font-size: 65px;color: white;">Abayas& More</a>
                 </div>                
             </div> 
         </div>
