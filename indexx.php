@@ -36,6 +36,15 @@
             </form>
         </div>
         <section class="products">
+                        <div>
+		<h2> Hello </h2>
+<p id="demo"> Our Team.</p>
+<button type="button" onclick="myFunction()"> CLICK HERE!</button>
+<script>
+function myFunction(){
+document.getElementById("demo").innerHTML= "NOURA,REEM,MADEEHA,MARAM,NOURA";}
+</SCRIPT>
+</div>
             <div class="wholeDetails">
                 <div class="notDetails">
                     <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/headphones.png" alt="">
