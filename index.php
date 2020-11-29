@@ -31,7 +31,7 @@
                 <h2>تسجيل الدخول</h2>
                 <input  dir="rtl" type="email" name="email" placeholder="ادخل الايميل">
                 <input dir="rtl"  type="password" name="pass"  placeholder="ادخل الرمز">
-                 <?php echo isset($_GET["msg"])?"<p>".$_GET["msg"]."</p>":'' ; ?></p>
+                 <?php echo isset($_GET["msg"])?"<p>".$_GET["msg"]."<p>":'' ; ?></p>
                 <input type="submit" name="ok" value="دخول"> 
             </form>
         </div>
