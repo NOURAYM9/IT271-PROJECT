@@ -47,45 +47,37 @@ document.getElementById("demo").innerHTML= "NOURA,REEM,MADEEHA,MARAM,NOURA";}
 </div>
             <div class="wholeDetails">
                 <div class="notDetails">
-                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/headphones.png" alt="">
+                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/headphones.png" alt="call">
                     <h3>خدمة العملاء</h3>
                     <div class="underContact">
                         <p>متوفرين لخدمتكم على مدار الساعة 24 ساعة</p>
                     </div>
                 </div>
                 <div class="notDetails">
-                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/money.png" alt="">
+                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/money.png" alt="pay">
                     <h3>طرق الدفع</h3>
                     <div class="underContact">
                         <p>متنوعة وتلبي احتياجاتك ( مدى ، فيزا ، تحويل بنكي )</p>
                     </div>
                 </div>
                 <div class="notDetails">
-                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/car.png" alt="">
+                    <img style="width: 50px; padding-top: 1em; padding-bottom:0.5em;" src="./images/car.png" alt="delivery">
                     <h3>التوصيل فائق السرعة</h3>
                     <div class="underContact">
                         <p>طرق توصيل متنوعة وسريعة لجميع مناطق المملكة</p>
                     </div>
                 </div>
-            </div>
         </section>
         <div class="homePay">
-            <img src="./images/cc.webp" alt="">
-            <img src="./images/applepay.svg" alt="">
+            <img src="./images/cc.webp" alt="pay">
+            <img src="./images/applepay.svg" alt="pay">
         </div>
-        
-        
-    </div>
-    
-    
-
-    
-
 
     <footer dir="rtl">
         <div class="contact">
-            <h2>من نحن
-            </h2>
+            <h2>من نحن 
+		
+	</h2>
             <ul>
                 <li>متجر مختص بالعبايات الجاهزة و التفصيل</li>
             </ul>
@@ -105,7 +97,7 @@ document.getElementById("demo").innerHTML= "NOURA,REEM,MADEEHA,MARAM,NOURA";}
 
             </h2>
             <ul>
-                <li><img style="width: 40px;" src="./images/instagram.png" alt=""></li>
+                <li><img style="width: 40px;" src="./images/instagram.png" alt="instagram"></li>
             </ul>
         </div>
     </footer>
