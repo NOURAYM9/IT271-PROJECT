@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NNN ABAYAS</title>
+    <title>Triple N</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -16,7 +16,7 @@
                     <a href="index.php"><img src="./images/1.png" style="margin-top: -16px;height: 95px;"></a>
                 </div>
                 <div class="aaa">
-                    <a href="products.php" style="text-decoration: none;font-size: 65px;color: white;">Abaya & More</a>
+                    <a href="products.php" style="text-decoration: none;font-size: 65px;color: white;">Abayas & More</a>
                 </div>
                 
             </div> 
